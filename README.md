@@ -4,3 +4,5 @@
 Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, Qibin Hou, Ming-Ming Cheng
 
 Offical implementation of "Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection"
+
+pytorch implementation is available at https://github.com/YXB-NKU/Strip-R-CNN
