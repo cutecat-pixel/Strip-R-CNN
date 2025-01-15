@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection</h1>
 
 <div align="center">
@@ -43,3 +44,13 @@ If you like our work, don't hesitate to reach out! Let's work on it and see how 
   year={2025}
 }
 ```
+=======
+# Strip-R-CNN
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/strip-r-cnn-large-strip-convolution-for/object-detection-in-aerial-images-on-dota-1)](https://paperswithcode.com/sota/object-detection-in-aerial-images-on-dota-1?p=strip-r-cnn-large-strip-convolution-for)
+![Strip-R-CNN](DotaStatis.png)
+Xinbin Yuan, ZhaoHui Zheng, Yuxuan Li, Xialei Liu, Li Liu, Xiang Li, Qibin Hou, Ming-Ming Cheng
+
+Offical implementation of "Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection"
+
+pytorch implementation is available at https://github.com/YXB-NKU/Strip-R-CNN
+>>>>>>> db19599133b27ccb550254b4d1a4daf2c10e234a
