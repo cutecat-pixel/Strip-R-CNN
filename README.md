@@ -31,7 +31,9 @@
 
 Offical implementation of "Strip R-CNN: Large Strip Convolution for Remote Sensing Object Detection"
 
-we also add our config in https://github.com/zcablii/LSKNet
+we also add our config in https://github.com/zcablii/LSKNet and https://github.com/YXB-NKU/Strip-R-CNN. 
+
+# If you encounter any issues while using our code, please check the relevant repositories for related issues first. If none exist, feel free to ask me!
 
 
 
