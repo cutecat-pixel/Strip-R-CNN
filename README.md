@@ -78,7 +78,7 @@ FAIR1M-1.0
 |         Model         |  mAP  | Angle | lr schd | Batch Size |                                                    Configs                                                     |                                                                                                                                                                              Download     | note                                                                                                                                                                         |
 | :----------------------: | :---: | :---: | :-----: | :------: | :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: |
 
-| Strip R-CNN-S | 48.26 | le90  |   1x    |    1*8     |            [strip_rcnn_s_fpn_1x_dota_le90](./configs/strip_rcnn/strip_rcnn_s_fpn_1x_dota_le90.py)             |         [model](https://drive.google.com/uc?export=download&id=1_c2aXANKHl0cIBb370LNIkCyDmQpA3_o)  | |
+| Strip R-CNN-S | 48.26 | le90  |   1x    |    1*8     |            [strip_rcnn_s_fpn_1x_dota_le90](./configs/strip_rcnn/strip_rcnn_s_fpn_1x_dota_le90.py)             |         [model](https://drive.google.com/file/d/1rQI-L6zzTn-Kd8_Z1KweguiBubivZygY/view?usp=drive_link)  | |
 
 HRSC2016 
 
