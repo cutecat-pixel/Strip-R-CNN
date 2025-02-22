@@ -36,6 +36,11 @@ we also add our config in https://github.com/zcablii/LSKNet and https://github.c
 If you encounter any issues while using our code, please check the relevant repositories for related issues first. If none exist, feel free to ask me!
 
 
+## Update[22/2/2025] 
+---
+## Jittor implementation at [github.com/NK-JittorCV/nk-remote](https://github.com/NK-JittorCV/nk-remote) ##
+---
+
 
 ## Abstract
 
