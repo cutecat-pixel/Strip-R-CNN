@@ -143,7 +143,7 @@ If you like our work, don't hesitate to reach out! Let's work on it and see how 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YXB-NKU/Strip-R-CNN&type=Date)](https://star-history.com/#YXB-NKU/Strip-R-CNN&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HVision-NKU/Strip-R-CNN&type=Date)](https://star-history.com/#YXB-NKU/Strip-R-CNN&Date)
 ## License
 Licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) for Non-commercial use only.
 Any commercial use should get formal permission first.
