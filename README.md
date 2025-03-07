@@ -39,6 +39,7 @@ If you encounter any issues while using our code, please check the relevant repo
 ## Update[22/2/2025] 
 ---
 ## Jittor implementation at [github.com/NK-JittorCV/nk-remote](https://github.com/NK-JittorCV/nk-remote) ##
+https://drive.google.com/file/d/1gt3vi-Ks0ie4GEYBWWJlIJVSsYmJrvCx/view?usp=drive_link
 ---
 
 
