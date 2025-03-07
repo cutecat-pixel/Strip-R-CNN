@@ -15,7 +15,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2501.03775)
 <a href='https://zhuanlan.zhihu.com/p/17342348259'><img src='https://img.shields.io/badge/Zhihu-blue.svg?logo=zhihu&logoColor=white'></a>
-<a href='https://mp.weixin.qq.com/s/T4ABbbuJ-b7-g6QgiT5_3Q'><img src='https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=000000' width='32' height='32'></a>
+<a href='https://mp.weixin.qq.com/s/T4ABbbuJ-b7-g6QgiT5_3Q'><img src='https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=000000' width='24' height='24'></a>
 
 <p>If you find our work helpful, please consider giving us a ⭐!</p>
 
@@ -40,7 +40,7 @@ If you encounter any issues while using our code, please check the relevant repo
 ## Update[22/2/2025] 
 ---
 ## Jittor implementation at [github.com/NK-JittorCV/nk-remote](https://github.com/NK-JittorCV/nk-remote) ##
-<a href='https://mp.weixin.qq.com/s/T4ABbbuJ-b7-g6QgiT5_3Q'><img src='https://icons8.com/icon/5tk64ASe7tdw/globe-with-meridians'></a>
+博客<a href='https://mp.weixin.qq.com/s/T4ABbbuJ-b7-g6QgiT5_3Q'><img src='https://img.icons8.com/?size=100&id=5tk64ASe7tdw&format=png&color=000000' width='24' height='24'></a>
 ---
 
 
